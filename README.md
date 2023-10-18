@@ -7,10 +7,11 @@
 
 ![IM5](https://github.com/Khol20/projetJDBC/assets/147450314/61f8e151-ae93-4857-841b-cb9496c98498)
 
-![IM6](https://github.com/Khol20/projetJDBC/assets/147450314/0cd8fd41-2ad6-4629-9823-c33dab47cf79)
 
-![IM7](https://github.com/Khol20/projetJDBC/assets/147450314/d2726cb9-a5a9-4a52-8efc-93da3763a478)
+![IM6](https://github.com/Khol20/projetJDBC/assets/147450314/58e1b53d-6e8e-4892-bd4d-ae8737f6e7de)
 
-![IM9](https://github.com/Khol20/projetJDBC/assets/147450314/b1cd8afd-fc64-4df4-8407-fa21edaac4c9)
+![IM7](https://github.com/Khol20/projetJDBC/assets/147450314/90fa6659-7ad6-4962-964f-f32396ebbd57)
 
-![IM10](https://github.com/Khol20/projetJDBC/assets/147450314/36ca7a3a-9f0e-4d42-9408-7d7fad1a685c)
+![IM9](https://github.com/Khol20/projetJDBC/assets/147450314/5ee6bae4-8596-4422-ad53-df94ecf05801)
+
+![IM10](https://github.com/Khol20/projetJDBC/assets/147450314/d656ad86-a137-4e44-94ef-00e975d8ce38)
